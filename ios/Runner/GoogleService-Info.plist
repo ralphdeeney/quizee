@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>895534940106-14l2arhjfojuflteiihf988ousv5nmgt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.895534940106-14l2arhjfojuflteiihf988ousv5nmgt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>895534940106-vr42tne0mm050gapfh5kall68kejgol4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDBRIavu4fTfCm0MH9zNOrE4tdqAsIdI8k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>895534940106</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aba.quizee</string>
+	<key>PROJECT_ID</key>
+	<string>quizee-759e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quizee-759e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:895534940106:ios:a345b93ccc194bf37a5933</string>
+</dict>
+</plist>
