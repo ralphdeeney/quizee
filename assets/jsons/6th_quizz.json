@@ -1,0 +1,113 @@
+{
+  "questions": [
+    {
+      "answer": "Crisis plan",
+      "options": [
+        "Crisis plan",
+        "Functions",
+        "Antecedent modifications",
+        "Consequence modifications"
+      ],
+      "question":
+          "\"If the client participates in self-destructive behavior that puts him (or others who intervene) in risk, immediately call for help from a supervisor and block the injurious activity with open hands. If necessary, use a soft mat and find someone who is certified to physically restrain the client for at least 30 seconds until the risky conduct stops. Inform the client's BCBA about the incident once the client has deescalated so that a plan to prevent escalation can be devised.\" What crucial component of a behavior intervention strategy is likely to include this?"
+    },
+    {
+      "answer": "Replacement behaviors",
+      "options": [
+        "Replacement behaviors",
+        "Crisis plan",
+        "Consequence modifications",
+        "Antecedent modifications"
+      ],
+      "question":
+          "\"As an alternative to tantruming, mands for tangibles are targeted. Any instance of requesting suitably for tangibles is considered a demand for tangibles. Each phrase is separated by at least 3 seconds before being included.\" (e.g., \"I want the tablet.\"). What crucial component of a behavior intervention strategy is likely to include this?"
+    },
+    {
+      "answer": "Operational definition",
+      "options": [
+        "Crisis plan",
+        "Replacement behaviors",
+        "Operational definition",
+        "Consequence modifications"
+      ],
+      "question":
+          "\"Property destruction includes any attempt or occurrence of ripping, pulling apart, or hurling an object in any direction. throwing items within the context of an appropriate activity is not counted as a behavior (e.g., \"playing with a ball.\"). After 5 seconds of non-occurrence, the behavior stops.\" What crucial component of a behavior intervention strategy is likely to include this?"
+    },
+    {
+      "answer": "Escape",
+      "options": ["Attention", "Automatic", "Escape", "Tangibles"],
+      "question":
+          "What behavior function defines behaviors that are sustained by removing socially-mediated nonpreferred stimuli (e.g., being asked to do homework, engaging in dull or dangerous activities, etc.)"
+    },
+    {
+      "answer": "Antecedent modifications",
+      "options": [
+        "Replacement behaviors",
+        "Consequence modifications",
+        "Antecedent modifications",
+        "Crisis plan"
+      ],
+      "question":
+          "\"If a demand is made and problem behaviors occur, immediately prompt the replacement behavior, 2) If the replacement behavior occurs, provide specific reinforcement, 3) If the replacement behavior does not occur, inform the client that work will continue and represent the demand, and 4) provide multiple options surrounding the task demand.\" What crucial component of a behavior intervention strategy is likely to include this?"
+    },
+    {
+      "answer": "Social negative reinforcement",
+      "options": [
+        "Social positive reinforcement",
+        "Automatic positive reinforcement",
+        "Extinction",
+        "Social negative reinforcement"
+      ],
+      "question":
+          "What behavior principle best captures the behavioral consequence of a bad behavior maintained through escape?"
+    },
+    {
+      "answer": "Social positive",
+      "options": [
+        "Social negative",
+        "Social positive",
+        "Automatic negative",
+        "Automatic positive"
+      ],
+      "question":
+          "If Samantha participates in self-injurious behavior (SIB), one of the most usual reactions is for the caretakers to gasp and say, \"Please don't do that! you'll be wounded!\", then what is the hypothetical function?"
+    },
+    {
+      "answer": "Antecedent modifications",
+      "options": [
+        "Antecedent modifications",
+        "Consequence modifications",
+        "Operational definitions",
+        "Crisis plan"
+      ],
+      "question":
+          "\"Allow choices as often as possible to reduce the risk of disobedience. Choice can be given in both preferred and nonpreferred activities (for example, choice of reinforcer, work, activity, and so on).\" What crucial component of a behavior intervention strategy is likely to include this?"
+    },
+    {
+      "answer": "Automatic negative",
+      "options": [
+        "Automatic positive",
+        "Social negative",
+        "Social positive",
+        "Automatic negative"
+      ],
+      "question":
+          "What behavior principle best captures the behavioral consequence of a bad behavior maintained through escape?"
+    },
+    {
+      "answer": "Social positive",
+      "options": [
+        "Automatic negative",
+        "Automatic positive",
+        "Social negative",
+        "Social positive"
+      ],
+      "question":
+          "Edward is an eight-year-old kid with a younger brother, Kendra, who is three years old. Angel has a lot of tantrums, with Edward dislikes. As a result, whenever Angel approaches, Edward strikes her until she flees or their parents remove Kendra from the room. What hypothetical function could keep Edward's behavior of striking his younger brother?"
+    }
+  ],
+  "questionType": "Sixth QUIZZ Chapter D _ Behavior Reduction",
+  "questionID" : "6"
+  
+}
+

@@ -1,0 +1,118 @@
+{
+    "questions": [
+        {
+            "answer": "All of the above",
+            "options": [
+                "The overall direction taken by the data path",
+                "The vertical representation of the average data values",
+                "Visual representation of consistency in data",
+                "All of the above"
+            ],
+            "question": "A trend in graph represents"
+        },
+        {
+            "answer": "Count",
+            "options": [
+                "Rate",
+                "Frequency",
+                "Duration",
+                "Count"
+            ],
+            "question": "Determine the data collection described: Jessa observed her sister hiccup 12 times"
+        },
+        {
+            "answer": "Partial interval",
+            "options": [
+                "Whole interval",
+                "Partial interval",
+                "MTS",
+                "Frequency"
+            ],
+            "question": "Describe the measurement procedure: During a 10 second interval, if the client chewed on his hair at any time the therapist would mark this as an occurrence. The therapist is tracking behavior using:"
+        },
+        {
+            "answer": "The client physically has the pencil in his hand",
+            "options": [
+                "The client begins writing his name",
+                "The client begins to move toward opening his pencil case",
+                "The client physically has the pencil in his hand",
+                "Latency is the incorrect measurement system"
+            ],
+            "question": "In this particular scenario, latency is being tracked to ensure our client is responding to stimuli in a timely manner. James tells his client, \"Get your pencil so we can write\". James starts his timer, and stops it once"
+        },
+        {
+            "answer": "Assists in the practice of speculations",
+            "options": [
+                "Helps practitioners optimize effectiveness",
+                "Enables practitioners to be accountable to clients, consumers, employers and society",
+                "Assists in the practice of speculations",
+                "Helps practitioners achieve ethical standards"
+            ],
+            "question": "As an evidence-based science, there are many reasons to use measurement in reports. Which of these is not true?"
+        },
+        {
+            "answer": "All of the above",
+            "options": [
+                "Read the data and notes from the last session",
+                "Prepare materials needed for the program",
+                "Have a clipboard with data sheets or device ready",
+                "All of the above"
+            ],
+            "question": "How can therapist prepare for data collection?"
+        },
+        {
+            "answer": "Once the behavior occurs the therapist can move on to the next interval",
+            "options": [
+                "The environment is altered, therefore the therapist does not need to keep a watchful eye because the end product is visible",
+                "Once the behavior occurs the therapist can move on to the next interval",
+                "The data overestimates behaviors providing a more accurate representation",
+                "The therapist does not need to keep a watchful eye because this measurement procedure does not exist"
+            ],
+            "question": "One advantage of using Momentary Time Sampling is:"
+        },
+        {
+            "answer": "None of the above",
+            "options": [
+                "Data",
+                "Measurement",
+                "Measurement procedures",
+                "None of the above"
+            ],
+            "question": "A trend in graph represents"
+        },
+        {
+            "answer": "An indication that the treatment procedure has moved into a new phase",
+            "options": [
+                "A temporary disruption from services (winter break, therapist on vacation...)",
+                "An indication that the treatment procedure has moved into a new phase",
+                "The average values of the data",
+                "None of the above"
+            ],
+            "question": "A solid condition change line indicates:"
+        },
+        {
+            "answer": "Count",
+            "options": [
+                "Count",
+                "Frequency",
+                "Latency",
+                "Duration"
+            ],
+            "question": "During a 3 hour session, Jacob observed 7 occurrences of clapping. Which measurement procedure was used?"
+        },
+        {
+            "answer": "Line graph",
+            "options": [
+                "Pie graph",
+                "Bar graph",
+                "Cumulative graph",
+                "Line graph"
+            ],
+            "question": "The most common graph used in ABA is:"
+        }
+    ],
+    "questionType": "Second QUIZZ_ Chapter A_ Measurement",
+  "questionID" : "2"
+  }
+
+  

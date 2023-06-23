@@ -1,0 +1,125 @@
+{
+    "questions": [
+        {
+            "answer": "Structured yet flexible",
+            "options": [
+                "Structured yet flexible",
+                "Rigid",
+                "Chaotic",
+                "Arrogant"
+            ],
+            "question": "ABA is best when..."
+        },
+        {
+            "answer": "Prediction",
+            "options": [
+                "Notion",
+                "Action",
+                "Prediction",
+                "Premonition"
+            ],
+            "question": "What is one purpose of science?"
+        },
+        {
+            "answer": [
+                "Experimental analysis of behavior",
+                "Applied behavior analysis"
+            ],
+            "options": [
+                "Astrology",
+                "Experimental analysis of behavior",
+                "Applied behavior analysis",
+                "Experiential behavior therapy"
+            ],
+            "question": "Which 2 of the following are branches of Behavior Analysis?"
+        },
+        {
+            "answer": [
+                "Effective",
+                "Conceptually systematic"
+            ],
+            "options": [
+                "Effective",
+                "Conceptually systematic",
+                "Reinforcement",
+                "Operant"
+            ],
+            "question": "Which 2 of the following are Dimensions of ABA as described in the seminal paper by Baer et al (1968)?"
+        },
+        {
+            "answer": "Behavior selected & maintained by consequences",
+            "options": [
+                "Behavior",
+                "Behavior determined by antecedents",
+                "Behavior selected & maintained by consequences",
+                "Everything a person does…"
+            ],
+            "question": "Operant behavior refers to..."
+        },
+        {
+            "answer": "Reinforcing",
+            "options": [
+                "Conceptually systematic",
+                "Generality",
+                "Technological",
+                "Reinforcing"
+            ],
+            "question": "Which is NOT a dimension of ABA (Baer et al 1968)?"
+        },
+        {
+            "answer": "One way to analyze behavior (what happened before, what behavior we see & what happens after)",
+            "options": [
+                "One way to analyze behavior (what happened before, what behavior we see & what happens after)",
+                "The function of behavior",
+                "Is contingency shaped",
+                "Is what it is"
+            ],
+            "question": "The 'Three-Term-Contingency' is:"
+        },
+        {
+            "answer": "Evidence-Based",
+            "options": [
+                "Evidence-Based",
+                "Faith-Based",
+                "Humor-Based",
+                "Illusion-Based"
+            ],
+            "question": "Science is..."
+        },
+        {
+            "answer": [
+                "Consistent",
+                "Intensive"
+            ],
+            "options": [
+                "Consistent",
+                "Intensive",
+                "Attitude",
+                "Quality"
+            ],
+            "question": "Three factors that determine successful ABA interventions include being"
+        },
+        {
+            "answer": "False",
+            "options": [
+                "True",
+                "False",
+                "Maybe",
+                "Not apply"
+            ],
+            "question": "True or false: ABA is used only with children with Autism?"
+        },
+        {
+            "answer": "Applied behavior analysis",
+            "options": [
+                "Applying behavioral analysis",
+                "Analyzing behavior assessment",
+                "All beware alerts!",
+                "Applied behavior analysis"
+            ],
+            "question": "What does ABA stand for?"
+        }
+    ],
+    "questionType": "First QUIZZ_ 7 Dimensions of Applied Behavior Analysis (ABA)",
+  "questionID" : "1"
+}

@@ -1,0 +1,875 @@
+{
+    "questions": [
+        {
+            "answer": "Having two different relationships with one client",
+            "options": [
+                "Working with two clients at the same time",
+                "Working with two different clients",
+                "Having two different relationships with one client",
+                "Working with a client in the community and clinic settings"
+            ],
+            "question": "What is a multiple relationship?"
+        },
+        {
+            "answer": "Be truthful and honest",
+            "options": [
+                "Be compassionate for the less fortunate",
+                "Be truthful and honest",
+                "Resolve all issues formally",
+                "If there is an issue, file a formal complaint immediately"
+            ],
+            "question": "Which of the following is part of the RBT ethical code?"
+        },
+        {
+            "answer": "Politely decline and explain to them/their parents the nature of your professional relationship.",
+            "options": [
+                "Refuse the gift and send a letter home that forbids future gifting.",
+                "Accept and use in front of them to make them feel good.",
+                "Politely decline and explain to them/their parents the nature of your professional relationship.",
+                "Throw it away immediately."
+            ],
+            "question": "A client gives you a bottle opener from their birthday party. What does the ethical code say you should do?"
+        },
+        {
+            "answer": "Report to BACB within 30 days",
+            "options": [
+                "Report to BACB within 24 hours",
+                "Do not report; this is not a fireable offense and your credential with remain intact",
+                "Provide 2 weeks' notice to employer",
+                "Report to BACB within 30 days"
+            ],
+            "question": "What should you do if you are arrested for a minor marijuana charge?"
+        },
+        {
+            "answer": "All of the above",
+            "options": [
+                "Information about a client that can be found online",
+                "Information about the people that RBT works with",
+                "Written records",
+                "Electronic records",
+                "All of the above"
+            ],
+            "question": "Which is considered confidential information per the BACB ethical code?"
+        },
+        {
+            "answer": "Do not make reference to, display, or otherwise use your RBT",
+            "options": [
+                "Do not make reference to, display, or otherwise use your RBT",
+                "Explain to parents that ABA was being performed under their RBT credential",
+                "Display your RBT certificate when requested",
+                "Bill since you have the RBT credential"
+            ],
+            "question": "If you are not providing direct ABA services and are having a fun Friday, what should you do?"
+        },
+        {
+            "answer": "Request more training from supervising BCBA",
+            "options": [
+                "Refuse as you lack experience in this type of behavior",
+                "Request more training from supervising BCBA",
+                "Accept since you are contractually obligated",
+                "Politely decline"
+            ],
+            "question": "Your supervisor requests that you work with a new client who has behaviors you have never encountered. What should you do?"
+        },
+        {
+            "answer": "Motivating Operation",
+            "options": [
+                "Abolishing Operation",
+                "Establishing Operation",
+                "Motivating Operation",
+                "SD"
+            ],
+            "question": "Which antecedent increases or decreases the value of a consequence?"
+        },
+        {
+            "answer": "Latency",
+            "options": [
+                "Frequency",
+                "Duration",
+                "Latency",
+                "Inter-response time"
+            ],
+            "question": "You are recording the time it takes from the presentation of the demand (Sd) to the first instance of behavior. What are you measuring?"
+        },
+        {
+            "answer": "Duration",
+            "options": [
+                "Duration",
+                "Momentary time sampling",
+                "Latency",
+                "Tally/Count"
+            ],
+            "question": "How long the behavior occurs refers to what measurement dimension?"
+        },
+        {
+            "answer": "Permanent product",
+            "options": [
+                "Duration",
+                "Time sampling",
+                "Continuous measurement",
+                "Permanent product"
+            ],
+            "question": "John is recording data on aggression by counting the number of scratches left on his body after a session. What kind of measurement is this?"
+        },
+        {
+            "answer": "Functions of behavior",
+            "options": [
+                "Functions of behavior",
+                "Teaching strategies",
+                "Types of prompts",
+                "Dimensions of ABA"
+            ],
+            "question": "Escape, attention, tangible, sensory"
+        },
+        {
+            "answer": "Function",
+            "options": [
+                "Prompt level",
+                "Duration",
+                "Function",
+                "Inter-response time"
+            ],
+            "question": "Determined by ABC Data"
+        },
+        {
+            "answer": "Task analysis",
+            "options": [
+                "Discrete trial",
+                "Forward chaining",
+                "Stimulus control",
+                "Task analysis"
+            ],
+            "question": "The breakdown of a task into its individual components and steps."
+        },
+        {
+            "answer": "SD",
+            "options": [
+                "SD",
+                "Sdelta",
+                "SR-",
+                "VR-3"
+            ],
+            "question": "Signals that reinforcement is available."
+        },
+        {
+            "answer": "Primary reinforcement",
+            "options": [
+                "Secondary reinforcement",
+                "Primary reinforcement",
+                "SD",
+                "Consequence of behavior"
+            ],
+            "question": "Examples are food, water, sex, sleep."
+        },
+        {
+            "answer": "Conditioned reinforcer",
+            "options": [
+                "Primary reinforcement",
+                "Conditioned reinforcer",
+                "Economic reinforcement",
+                "Fiscal considerations"
+            ],
+            "question": "Examples are money and tokens."
+        },
+        {
+            "answer": "Reinforcement",
+            "options": [
+                "Punishment",
+                "Motivation",
+                "Rewards",
+                "Reinforcement"
+            ],
+            "question": "Increases the future likelihood of behavior."
+        },
+        {
+            "answer": "Positive reinforcement",
+            "options": [
+                "Positive reinforcement",
+                "Positive punishment",
+                "Negative reinforcement",
+                "Negative punishment"
+            ],
+            "question": "Adding a stimulus which increases the future likelihood of behavior."
+        },
+        {
+            "answer": "Echoic",
+            "options": [
+                "Mand",
+                "Tact",
+                "Intraverbal",
+                "Echoic"
+            ],
+            "question": "Verbal behavior with point-to-point correspondence."
+        },
+        {
+            "answer": "Negative punishment",
+            "options": [
+                "Positive reinforcement",
+                "Positive punishment",
+                "Negative reinforcement",
+                "Negative punishment"
+            ],
+            "question": "Removing a stimulus which decreases the future likelihood of behavior."
+        },
+        {
+            "answer": "VI-2",
+            "options": [
+                "FI-2",
+                "FR-2",
+                "VI-2",
+                "VR-2"
+            ],
+            "question": "Reinforcement is delivered on the average of every 2 minutes in which the behaviors occur."
+        },
+        {
+            "answer": "Sensory, Escape, Attention, and Tangibles",
+            "options": [
+                "Toys, Edibles, Praise, and Aversion",
+                "Sensory, Escape, Attention, and Tangibles",
+                "Sensory Overload, Non-Compliance, Aggression, and Compliance",
+                "Automatic Sensory, Automatic Positive, and Social Negative"
+            ],
+            "question": "What are the four functions of behavior?"
+        },
+        {
+            "answer": "Mand",
+            "options": [
+                "Mand",
+                "Tact",
+                "Echoic",
+                "Intraverbal"
+            ],
+            "question": "Verbal behavior of requesting"
+        },
+        {
+            "answer": "Negative punishment",
+            "options": [
+                "Positive reinforcement",
+                "Positive punishment",
+                "Negative reinforcement",
+                "Negative punishment"
+            ],
+            "question": "Removing a stimulus which decreases the future likelihood of behavior."
+        },
+        {
+            "answer": "Tilda should notify her supervisor of the mishap and try to prevent such a fiasco in the future – perhaps by using mechanical or digital data collection systems.",
+            "options": [
+                "Tilda should not record any data for that session – that would be unethical. No further action (such as contacting her supervisor) is necessary – if a supervisor sees no data collected, they automatically know that coffee was spilled on the paper data sheet due to their experience with coffee and paper in the past.",
+                "Tilda should try her best to estimate the client’s performance on each skill target. After all, it wasn’t that long ago – she can probably remember everything alright.",
+                "Tilda should notify her supervisor of the mishap and try to prevent such a fiasco in the future – perhaps by using mechanical or digital data collection systems.",
+                "Tilda should submit the coffee-stained paper data sheet to her supervisor during the next supervision session and resign."
+            ],
+            "question": "Tilda finished her session after being supervised by her BCBA. During the session, she recorded data on a paper data collection sheet. While she was cleaning up, she spilled a cup of coffee all over her data sheet, making it completely illegible.\nWhat should Tilda do? Her company has strict policies regarding staff who fail to properly enter data at the end of a shift!"
+        },
+        {
+            "answer": "Antecedent",
+            "options": [
+                "Antecedent",
+                "Response",
+                "Behavior",
+                "Consequence"
+            ],
+            "question": "What occurs before the behavior?"
+        },
+        {
+            "answer": "SD",
+            "options": [
+                "SD",
+                "DRA",
+                "Sdelta",
+                "SR+"
+            ],
+            "question": "Example, “do this.”"
+        },
+        {
+            "answer": "Consequence",
+            "options": [
+                "Antecedent",
+                "Behavior",
+                "Response",
+                "Consequence"
+            ],
+            "question": "What occurs after the behavior?"
+        },
+        {
+            "answer": "CC (carbon copy) reveals the names of people who are receiving behavior analysis services – this is a breach of confidentiality and must be handled differently",
+            "options": [
+                "This is fine and permitted by the BACB, within reason",
+                "CC (carbon copy) reveals the names of people who are receiving behavior analysis services without getting their consent first, which violates HIPPA, as revealing the name of someone receiving mental health services is protected healthcare information.",
+                "Generally speaking, behavior analysis is not a “medical” field and therefore not required to respect privacy as federally mandated by the HIPAA act. However, this type of behavior is considered somewhat “unclassy.”",
+                "Sam should avoid sending out mass emails, as it’s very tacky"
+            ],
+            "question": "Tammy is a BCBA working at a behavior analysis clinic. She is creating a flyer for an exciting workshop event at her clinic, and wants to share it with all the families currently receiving behavior analysis services, so she mass emails (cc – carbon copy) the entire roster of active patients at her facilty.\nWhat, if anything, is wrong with this situation?"
+        },
+        {
+            "answer": "Technological",
+            "options": [
+                "Applied",
+                "Behavioral",
+                "Technological",
+                "Conceptually Systematic"
+            ],
+            "question": "Of the 7 Dimensions of ABA (as originally described by Baer, D., Wolf, M., & Risley, R., 1968), which of the following does the above most closely describe?"
+        },
+        {
+            "answer": "Most to least prompting",
+            "options": [
+                "Forward chaining",
+                "Backwards chaining",
+                "Most to least prompting",
+                "Least to most prompting"
+            ],
+            "question": "Start with most intrusive prompt."
+        },
+        {
+            "answer": "Shaping",
+            "options": [
+                "Chaining",
+                "Shaping",
+                "Prompting",
+                "Reinforcing"
+            ],
+            "question": "Reinforcing gradual changes in behavior."
+        },
+        {
+            "answer": "Forward chaining",
+            "options": [
+                "Forward chaining",
+                "Prompting",
+                "Backwards chaining",
+                "Fading"
+            ],
+            "question": "Teaching a task analysis by teaching the first step first."
+        },
+        {
+            "answer": "Backwards chaining",
+            "options": [
+                "Forward chaining",
+                "Backwards chaining",
+                "Least to most prompting",
+                "Most to least prompting"
+            ],
+            "question": "Start with least intrusive prompt."
+        },
+        {
+            "answer": "Total task presentation",
+            "options": [
+                "Total task presentation",
+                "Single task presentation",
+                "Discriminative stimulus",
+                "Forward chaining"
+            ],
+            "question": "Teaching the entire task analysis at once"
+        },
+        {
+            "answer": "FR-5",
+            "options": [
+                "VR-5",
+                "VI-5",
+                "FR-5",
+                "FI-5"
+            ],
+            "question": "Reinforcement provided on the average of every 5 correct responses"
+        },
+        {
+            "answer": "VI-2",
+            "options": [
+                "VI-2",
+                "VR-2",
+                "FR-2",
+                "FI-2"
+            ],
+            "question": "Reinforcement provided every 2 minutes in which behavior occurred."
+        },
+        {
+            "answer": "FI-10",
+            "options": [
+                "FI-10",
+                "FR-10",
+                "VI-10",
+                "VR-10"
+            ],
+            "question": "Reinforcement provided every 10 minutes that behavior occurs."
+        },
+        {
+            "answer": "Multiple stimulus without replacement",
+            "options": [
+                "Multiple stimulus with replacement",
+                "Multiple stimulus without replacement",
+                "Multiple stimulus with operates",
+                "Multiple settings with replacement"
+            ],
+            "question": "MSWO"
+        },
+        {
+            "answer": "Functional behavior assessment",
+            "options": [
+                "Free behavior assessment",
+                "Functional behavior assessment",
+                "Function of behavior analysis",
+                "Freudian behavior assessment"
+            ],
+            "question": "FBA"
+        },
+        {
+            "answer": "Differential reinforcement of alternative behavior",
+            "options": [
+                "Differential reinforcement of alternative behavior",
+                "Differential reinforcement of incompatible behavior",
+                "Differential reinforcement for lower rates of behavior",
+                "Differential reinforcement of other behavior"
+            ],
+            "question": "You provide reinforcement to your client for clapping, and ignore him when he hits."
+        },
+        {
+            "answer": "Differential reinforcement of lower rates of behavior",
+            "options": [
+                "Differential reinforcement of higher rates of behavior",
+                "Differential reinforcement of lower rates of behavior",
+                "Differential reinforcement of other behavior",
+                "Differential reinforcement of alternative behavior"
+            ],
+            "question": "Reinforcing progressively lower response rates."
+        },
+        {
+            "answer": "Differential reinforcement of higher rates of behavior",
+            "options": [
+                "Differential reinforcement of incompatible behavior",
+                "Differential reinforcement of other behavior",
+                "Differential reinforcement of alternative behavior",
+                "Differential reinforcement of higher rates of behavior"
+            ],
+            "question": "Reinforcing progressively increasing rates of behavior."
+        },
+        {
+            "answer": "Grandma loves the slots in Vegas! On average, every 30th pull of the slot machine results in a small cash payout. Sometimes the payout occurs on the 15th pull… sometimes on the 45th… but, on average, payout occurs every 30 pulls on the slot machine. Grandma can’t wait to hit the jackpot someday!",
+            "options": [
+                "Grandma loves the slots in Vegas! On average, every 30th pull of the slot machine results in a small cash payout. Sometimes the payout occurs on the 15th pull… sometimes on the 45th… but, on average, payout occurs every 30 pulls on the slot machine. Grandma can’t wait to hit the jackpot someday!",
+                "Every time Billy screams, his mother punishes him by taking away his toys for the night",
+                "Tim gives his students a treat from the candy jar every time they get a 100% on their tests",
+                "Individuals who pass the RBT exam are given a $50 bonus on their next pay check at ACME ABA company."
+            ],
+            "question": "Which of the following examples below is an example of a VARIABLE RATIO schedule of reinforcement?"
+        },
+        {
+            "answer": "Extinction",
+            "options": [
+                "Variable reinforcement",
+                "Extinction",
+                "Punishment",
+                "Reinforcement schedule"
+            ],
+            "question": "Withholding reinforcement for a target response"
+        },
+        {
+            "answer": "Task Analysis",
+            "options": [
+                "Task Analysis",
+                "Task Step",
+                "Task Endurance",
+                "Task Sequence",
+                "A Recipe"
+            ],
+            "question": "Sometimes, behavior analysts will break down a complex chain of behaviors into smaller discrete steps to facilitate teaching.\nThe learner will then be taught to complete the steps in their logical order, with the completion of the previous step serving as the reinforcer for that step and the discriminative stimulus (SD) for the next step. Finally, the last step in the chain (terminal step) serves as the reinforcer for the whole chain.\nWhat is this called?"
+        },
+        {
+            "answer": "The RBT needs to be supervised directly by a certified behavior analyst (BCaBA, BCBA, BCBA-D). The type of supervision and quantity are directly specified by the board.",
+            "options": [
+                "As long as the RBT is being supervised by a behavior analyst, there is no ethical concern here.",
+                "There is no ethical concern here – this is standard practice, as mandated by the BACB.",
+                "The RBT needs to be supervised directly by a certified behavior analyst (BCaBA, BCBA, BCBA-D). The type of supervision and quantity are directly specified by the board.",
+                "As long as the RBT practices lots of the free quizzes on this awesome website, they should be fine."
+            ],
+            "question": "An experienced RBT supervises other RBTs at work, due to a shortage of board-certified assistant (BCaBA) and board-certified behavior analysts (BCBAs).\nWhat, if any, ethical consideration exists here?"
+        },
+        {
+            "answer": "You should know the responses and their response definitions that you will be measuring during your session. In addition, make sure you’re prepared to take data – clickers, notepaper and a pencil, whatever you need, make sure you have it!",
+            "options": [
+                "You can probably just wing it. You’re pretty good at this, after all, and your memory is amazing.",
+                "A cup of coffee is all anyone really needs – if anyone tells you otherwise, they’re a liar or a tea-drinker.",
+                "You should know the responses and their response definitions that you will be measuring during your session. In addition, make sure you’re prepared to take data – clickers, notepaper and a pencil, whatever you need, make sure you have it!",
+                "Before the session, conduct a functional behavioral assessment and an informal preference assessment. Following that, draft a treatment plan while the client plays with an iPad."
+            ],
+            "question": "You’re about to start a session with a client. What do you need to do to be sure you’re ready to have a successful session (at the very minimum)?"
+        },
+        {
+            "answer": "Antecedent",
+            "options": [
+                "Antecedent",
+                "Motivation Operation",
+                "Preceding Stimulus",
+                "Setting event"
+            ],
+            "question": "What happens before/ immediately precedes behavior in data collection is known as the…"
+        },
+        {
+            "answer": "Duration",
+            "options": [
+                "Frequency",
+                "Duration",
+                "Interresponse time",
+                "Latency"
+            ],
+            "question": "How long a tantrum behavior occurs, how long it takes a client to do homework; what type of data collection is this?"
+        },
+        {
+            "answer": "Inter-response time",
+            "options": [
+                "Frequency",
+                "Duration",
+                "Intensity",
+                "Inter-response time"
+            ],
+            "question": "Time between two successive responses."
+        },
+        {
+            "answer": "Partial Interval Recording",
+            "options": [
+                "Momentary Time Sampling",
+                "Duration per Occurrence",
+                "Partial Interval Recording",
+                "Partial Interview Recording"
+            ],
+            "question": "Record a + if behavior occurred at any point during the interval."
+        },
+        {
+            "answer": "Conducting an analog or naturalistic functional analysis is usually considered the best way to identify function",
+            "options": [
+                "Ask yourself, 'What are the A-B-C’s for this behavior?' Sketch it out, and write a functional response definition for the behavior and proceed with treatment. Trust your intuition!",
+                "Watch the behavior of interest occur in the natural environment; that should be sufficient.",
+                "Free operant or multiple stimulus assessment",
+                "Conducting an analog or naturalistic functional analysis is usually considered the best way to identify function"
+            ],
+            "question": "When attempting to assess the function of a client’s behavior, what is often considered the 'gold standard' for experimentally identifying function?"
+        },
+        {
+            "answer": "Providing greater reinforcement for better approximations of a target behavior, and placing other behaviors on extinction or on a less desirable reinforcement schedule",
+            "options": [
+                "A stimulus that, when presented following a behavior, causes an overall INCREASE in that behavior over time.",
+                "Providing greater reinforcement for better approximations of a target behavior, and placing other behaviors on extinction or on a less desirable reinforcement schedule",
+                "A procedure in which reinforcement is provided for a target behavior, but only after a certain amount of time has passed since the last occurrence of that behavior.",
+                "Providing a reward every single time a target behavior is emitted."
+            ],
+            "question": "Select the best definition for differential reinforcement, from the choices below:"
+        },
+        {
+            "answer": "Response generalization",
+            "options": [
+                "Stimulus generalization",
+                "Stimulus discrimination",
+                "Response generalization",
+                "Response discrimination"
+            ],
+            "question": "The transfer of a behavior from one situation to another is known as:"
+        },
+        {
+            "answer": "Positional prompt",
+            "options": [
+                "Verbal prompt",
+                "Gestural prompt",
+                "Positional prompt",
+                "Visual prompt"
+            ],
+            "question": "Which of the following is NOT a type of prompt?"
+        },
+        {
+            "answer": "A person engages in self-stimulatory behavior because it feels satisfying.",
+            "options": [
+                "A child gets a cookie for correctly answering a math problem.",
+                "A student raises their hand and gets called on by the teacher.",
+                "A teenager cleans their room to avoid getting yelled at by their parent.",
+                "A person engages in self-stimulatory behavior because it feels satisfying."
+            ],
+            "question": "Which of the following is an example of an automatic reinforcer?"
+        },
+        {
+            "answer": "Differential reinforcement of incompatible behaviors",
+            "options": [
+                "Differential reinforcement of incompatible behaviors",
+                "Differential reinforcement of lower rates of behavior",
+                "Differential reinforcement of alternative behaviors",
+                "Differential reinforcement of other behaviors"
+            ],
+            "question": "A child is taught to raise their hand as an alternative to yelling out in class. Which type of differential reinforcement does this example represent?"
+        },
+        {
+            "answer": "Pavlovian Conditioning",
+            "options": [
+                "Reflex Reaction",
+                "Operant Conditioning",
+                "Learning",
+                "Pavlovian Conditioning"
+            ],
+            "question": "Classical conditioning is also commonly referred to as..."
+        },
+        {
+            "answer": "Sensory extinction",
+            "options": [
+                "Sensory extinction",
+                "Escape extinction",
+                "Attention extinction",
+                "Functional communication training"
+            ],
+            "question": "For a child who is scratching his skin, extinction can be used by the child wearing a glove, preventing the contact of the sensory stimulation that comes from scratching the skin. Which type of extinction does this represent?"
+        },
+        {
+            "answer": "True",
+            "options": [
+                "True",
+                "False"
+            ],
+            "question": "A neutral stimulus can become conditioned by pairing this stimulus with an unconditioned or previously conditioned stimulus. True or false?"
+        },
+        {
+            "answer": "Sd",
+            "options": [
+                "Sd",
+                "Sdelta",
+                "Ds",
+                "SR+"
+            ],
+            "question": "The sign being illuminated at your favorite restaurant says 'open.' The open sign signals the availability of stopping, as it indicates that the behavior of going into the restaurant will be reinforced by the delivery of food. What type of stimulus is this an example of?"
+        },
+        {
+            "answer": "Reinforcement",
+            "options": [
+                "Punishment",
+                "Reinforcement",
+                "Consequence",
+                "Stimulus"
+            ],
+            "question": "This follows a response and increases the probability of that response occurring again in the future."
+        },
+        {
+            "answer": "Positive",
+            "options": [
+                "Positive",
+                "Negative",
+                "Continuous",
+                "Discontinuous"
+            ],
+            "question": "Adding something that will motivate a person to increase the likelihood that they will engage in the target behavior again. What type of reinforcement is this?"
+        },
+        {
+            "answer": "Unconditioned",
+            "options": [
+                "Unconditioned",
+                "Conditioned",
+                "Negative",
+                "Positive"
+            ],
+            "question": "Food is an example of what type of reinforcer?"
+        },
+        {
+            "answer": "Secondary",
+            "options": [
+                "Negative",
+                "Unconditioned",
+                "Secondary",
+                "Primary"
+            ],
+            "question": "Money is an example of what type of reinforcement?"
+        },
+        {
+            "answer": "Unconditioned",
+            "options": [
+                "Conditioned",
+                "Unknown",
+                "Unconditioned",
+                "Secondary"
+            ],
+            "question": "Extremely bright lights, freezing temperature, electric shock are all examples of which punisher?"
+        },
+        {
+            "answer": "An abolishing operation (value decrease) of a reinforcer due to an organism being over-exposed to that stimulus",
+            "options": [
+                "An abolishing operation (value decrease) of a reinforcer due to an organism being over-exposed to that stimulus",
+                "An establishing operation (value increase) of a reinforcer due to its scarcity",
+                "A stimulus that is aversive or non-preferred",
+                "To be at capacity or over-supplied"
+            ],
+            "question": "Satiation is a term that refers to what?"
+        },
+        {
+            "answer": "Data never decreases in a cumulative record; an increasing slope indicates occurrence of the target behavior, while a flat slope indicates periods of no occurrences of the target behavior",
+            "options": [
+                "Trends in a cumulative record can include a positive (increasing) and negative (decreasing) slope",
+                "A combination of all frequency scores into a single 'master score index' used in statistical analysis to compare frequency charts for different types of radical behaviors",
+                "Data never decreases in a cumulative record; an increasing slope indicates occurrence of the target behavior, while a flat slope indicates periods of no occurrences of the target behavior",
+                "Data is recorded once per session; downward slopes indicate a decreasing trend"
+            ],
+            "question": "Which of the following is true about cumulative records?"
+        },
+        {
+            "answer": "Negative reinforcement",
+            "options": [
+                "Negative punishment",
+                "Negative reinforcement",
+                "Positive punishment",
+                "Positive reinforcement"
+            ],
+            "question": "Removing something that increases the future likelihood of behavior is called..."
+        },
+        {
+            "answer": "Behavior momentum",
+            "options": [
+                "Behavior modification",
+                "Behavior momentum",
+                "Behavior inertia",
+                "Functional communication training"
+            ],
+            "question": "Present 5 easy/mastered tasks in quick succession immediately before presenting an acquisition target."
+        },
+        {
+            "answer": "No",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "question": "Is exaggerating covered by the RBT ethical code?"
+        },
+        {
+            "answer": "2 years after the working relationship ends",
+            "options": [
+                "2 years after the working relationship ends",
+                "6 months after the working relationship ends",
+                "1 month, as long as a personal relationship is established",
+                "Never"
+            ],
+            "question": "How much time needs to pass before entering a relationship with a client or supervisor?"
+        },
+        {
+            "answer": "Report to BACB within 30 days",
+            "options": [
+                "Report to BACB within 24 hours",
+                "Do not report; this is not a fireable offense and your credential will remain intact",
+                "Provide 2 weeks notice to employer",
+                "Report to BACB within 30 days"
+            ],
+            "question": "What should you do if you are arrested for a minor marijuana charge?"
+        },
+        {
+            "answer": "Client",
+            "options": [
+                "Parent",
+                "Teacher",
+                "BCBA",
+                "Client"
+            ],
+            "question": "When working with a client, whose preferences should take priority?"
+        },
+        {
+            "answer": "All of the above",
+            "options": [
+                "Contact relevant authorities",
+                "Follow organization’s policies",
+                "Document efforts to address the matter",
+                "Consult with your supervisor",
+                "All of the above"
+            ],
+            "question": "If you become aware that a client’s legal rights are being violated, which of the following actions should you take?"
+        },
+        {
+            "answer": "Escape from demands presented by others (Socially Mediated Negative Reinforcement)",
+            "options": [
+                "Sensory Overload",
+                "Escape from demands presented by others (Socially Mediated Negative Reinforcement)",
+                "Access to Tangibles, such as preferred Items & activities (Socially Mediated Positive Reinforcement)",
+                "Escape from a painful stimulus, such as a headache! (Automatically Mediated Negative Reinforcement)"
+            ],
+            "question": "Sally is an RBT working with a client named Jim. Jim tends to scream and bite his arm forcefully when presented with his token board, and sometimes when Sally opens up her laptop. Sally almost never opens up her laptop unless she’s about to ask Jim to do some of his table work activities.\nWhat do you think the most likely function of Jim’s behavior is?"
+        },
+        {
+            "answer": "Frequency",
+            "options": [
+                "Duration",
+                "Duration per occurrence",
+                "Latency",
+                "Frequency"
+            ],
+            "question": "You are asked to collect data on aggression. Every time your learner aggresses, you click the tally counter. What are you measuring?"
+        },
+        {
+            "answer": "Latency",
+            "options": [
+                "Frequency",
+                "Duration",
+                "Latency",
+                "Inter-response time"
+            ],
+            "question": "You are recording the time it takes from the presentation of the demand (Sd) to the first instance of behavior. What are you measuring?"
+        },
+        {
+            "answer": "FR-3",
+            "options": [
+                "FR-3",
+                "FI-3",
+                "VR-3",
+                "VI-3"
+            ],
+            "question": "For every third correct response, you deliver a preferred edible. What reinforcement schedule is this?"
+        },
+        {
+            "answer": "A family is going on vacation and wants to bring their RBT along to help their child work on goals while on vacation. The RBT can’t afford the trip, so the family decides to pay for their trip in order to bring them along. The RBT agrees, as this is a valid business expense.",
+            "options": [
+                "An RBT working with a family on community skills goals in a shopping mall is offered a gift by the family once they conclude their shopping trip. The RBT accepts the gift.",
+                "A family is going on vacation and wants to bring their RBT along to help their child work on goals while on vacation. The RBT can’t afford the trip, so the family decides to pay for their trip in order to bring them along. The RBT agrees, as this is a valid business expense.",
+                "A small child, who is the client of an RBT, offers the RBT a hand-made card, made from construction paper and way too much glitter, as a gift. The RBT readily accepts with a big smile on his face.",
+                "A mechanic, who is the father of a child receiving behavioral services from an RBT, notices the RBT is having trouble starting her car. He offers to help her fix it at his shop for free. The RBT is grateful and accepts the gift from the client’s father."
+            ],
+            "question": "Which of the following is the LEAST unethical decision?"
+        },
+        {
+            "answer": "Objective, clear, concise, and complete description of a behavior of interest",
+            "options": [
+                "Objective, clear, concise, and complete description of a behavior of interest",
+                "Use layman's terms to explain to parents what type of function the behavior most likely possesses",
+                "Describe only the function of the behavior of interest",
+                "Provide a subjective, comfortable description of the behavior of interest"
+            ],
+            "question": "Response definitions, sometimes also referred to as operational definitions or behavior definitions, refer to a..."
+        },
+        {
+            "answer": "Functions of behavior & Reinforcers",
+            "options": [
+                "4 Functions of behavior",
+                "Reinforcers",
+                "Punishers",
+                "Functions of behavior & Reinforcers"
+            ],
+            "question": "Escape, attention, tangible, sensory describe what?"
+        },
+        {
+            "answer": "Presenting easier mastered tasks in quick succession immediately before presenting an acquisition target",
+            "options": [
+                "Increasing the difficulty of a task after initial skill acquisition",
+                "Pairing highly preferred items with low-preferred items",
+                "Using high-p requests with items they always gain access to",
+                "Presenting easier mastered tasks in quick succession immediately before presenting an acquisition target"
+            ],
+            "question": "Behavior momentum is..."
+        },
+        {
+            "answer": "When a client has made an error",
+            "options": [
+                "After 3 seconds",
+                "After 5 seconds",
+                "Before a client has had a chance to respond",
+                "When a client has made an error"
+            ],
+            "question": "When should you prompt?"
+        },
+        {
+            "answer": "Giving a child a cookie every time they clean their room",
+            "options": [
+                "Giving a child a cookie every time they clean their room",
+                "Giving a child a cookie after they have cleaned their room 10 times",
+                "Giving a child a cookie after they have cleaned their room on Monday, Wednesday, and Friday",
+                "Giving a child a cookie after they have cleaned their room for 30 minutes"
+            ],
+            "question": "Which of the following is an example of a continuous reinforcement schedule?"
+        }
+    ]
+    "questionType": "FINAL QUIZZ TO APPROVE RBT training Courses",
+  "questionID" : "7"
+  }
