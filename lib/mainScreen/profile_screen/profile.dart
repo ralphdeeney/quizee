@@ -1,7 +1,9 @@
+// ignore_for_file: unused_element
 
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({Key? key}) : super(key: key);
@@ -13,13 +15,14 @@ class ProfileScreen extends StatefulWidget {
 class _ProfileScreenState extends State<ProfileScreen> {
   double _progressValue = 0;
 
-
   late User? currentUser;
   String _firstName = '';
   String _email = '';
   String _lastName = '';
   String _occupation = '';
   String _age = '';
+  // ignore: unused_field
+  String _gender = "";
 
   void _incrementProgress() {
     setState(() {
@@ -42,6 +45,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
       _lastName = userDataSnapshot['lastName'];
       _occupation = userDataSnapshot['occupation'];
       _age = userDataSnapshot['age'];
+      _gender = userDataSnapshot['gender'];
     });
   }
 
@@ -57,7 +61,8 @@ class _ProfileScreenState extends State<ProfileScreen> {
         'lastName': 'NewLastName',
         'email': 'NewEmail',
         'occupation': 'NewOccupation',
-        'age': 'NewAge'
+        'age': 'NewAge',
+        'gender': 'NewGender'
       });
       showDialog(
         context: context,
@@ -84,11 +89,12 @@ class _ProfileScreenState extends State<ProfileScreen> {
       body: SafeArea(
         child: SingleChildScrollView(
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 28.0, vertical: 12.0),
+            padding:
+                const EdgeInsets.symmetric(horizontal: 28.0, vertical: 12.0),
             child: Column(
               children: [
                 const Center(
-                  child: CircleAvatar(radius:80),
+                  child: CircleAvatar(radius: 80),
                 ),
                 SizedBox(height: 16.0),
                 Row(
@@ -97,20 +103,20 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     Container(
                       width: 80,
                       height: 100,
-                      child: Image(image: AssetImage("assets/images/aba.jpeg")),
+                      child: SvgPicture.asset("assets/images/SVG/aba.svg"),
                     ),
                     SizedBox(width: 16.0),
                     Container(
                       width: 80,
                       height: 80,
-                      child: Image(image: AssetImage("assets/images/ath.jpeg")),
+                      child: SvgPicture.asset("assets/images/SVG/abaLogo2.svg"),
                     ),
                   ],
                 ),
                 SizedBox(height: 16.0),
                 LinearProgressIndicator(
                   value: .2,
-                   minHeight: 16,
+                  minHeight: 16,
                 ),
                 SizedBox(height: 10),
                 Container(
@@ -120,17 +126,15 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     color: Colors.grey[200],
                   ),
                   child: TextField(
-                    textAlign:TextAlign.left,
-                    
+                    textAlign: TextAlign.left,
                     decoration: InputDecoration(
                       contentPadding: EdgeInsets.symmetric(horizontal: 10),
-
                       hintText: 'Enter your first name',
                       border: InputBorder.none,
                     ),
                     controller: TextEditingController(text: _firstName),
                     onChanged: (value) {
-                        _firstName = value;
+                      _firstName = value;
                     },
                   ),
                 ),
@@ -142,7 +146,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     color: Colors.grey[200],
                   ),
                   child: TextField(
-                     textAlign: TextAlign.left,
+                    textAlign: TextAlign.left,
                     decoration: InputDecoration(
                       contentPadding: EdgeInsets.symmetric(horizontal: 10),
                       hintText: 'Enter your last name',
@@ -150,31 +154,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     ),
                     controller: TextEditingController(text: _lastName),
                     onChanged: (value) {
-                      
-                        _lastName = value;
-                      
-                    },
-                  ),
-                ),
-                SizedBox(height: 10),
-                Container(
-                  decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(8.0),
-                    border: Border.all(color: Colors.white),
-                    color: Colors.grey[200],
-                  ),
-                    child: TextField(
-                       textAlign: TextAlign.left,
-                     decoration: InputDecoration(
-                      contentPadding: EdgeInsets.symmetric(horizontal: 10),
-                      hintText: 'Enter your email',
-                      border: InputBorder.none,
-                    ),
-                    controller: TextEditingController(text: _email),
-                    onChanged: (value) {
-                      
-                        _email = value;
-                      
+                      _lastName = value;
                     },
                   ),
                 ),
@@ -186,7 +166,27 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     color: Colors.grey[200],
                   ),
                   child: TextField(
-                     textAlign: TextAlign.left,
+                    textAlign: TextAlign.left,
+                    decoration: InputDecoration(
+                      contentPadding: EdgeInsets.symmetric(horizontal: 10),
+                      hintText: 'Enter your email',
+                      border: InputBorder.none,
+                    ),
+                    controller: TextEditingController(text: _email),
+                    onChanged: (value) {
+                      _email = value;
+                    },
+                  ),
+                ),
+                SizedBox(height: 10),
+                Container(
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(8.0),
+                    border: Border.all(color: Colors.white),
+                    color: Colors.grey[200],
+                  ),
+                  child: TextField(
+                    textAlign: TextAlign.left,
                     decoration: InputDecoration(
                       contentPadding: EdgeInsets.symmetric(horizontal: 10),
                       hintText: 'Enter your occupation',
@@ -194,9 +194,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     ),
                     controller: TextEditingController(text: _occupation),
                     onChanged: (value) {
-                      
-                        _occupation = value;
-                      
+                      _occupation = value;
                     },
                   ),
                 ),
@@ -208,18 +206,15 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     color: Colors.grey[200],
                   ),
                   child: TextField(
-                     textAlign: TextAlign.left,
+                    textAlign: TextAlign.left,
                     decoration: InputDecoration(
-                      
                       contentPadding: EdgeInsets.symmetric(horizontal: 10),
                       hintText: 'Enter your age',
                       border: InputBorder.none,
                     ),
                     controller: TextEditingController(text: _age),
                     onChanged: (value) {
-                      
-                        _age = value;
-                      
+                      _age = value;
                     },
                   ),
                 ),
@@ -228,8 +223,6 @@ class _ProfileScreenState extends State<ProfileScreen> {
                   onPressed: _updateUserData,
                   child: Text('Save Changes'),
                 ),
-               
-                
               ],
             ),
           ),

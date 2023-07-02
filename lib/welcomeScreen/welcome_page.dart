@@ -111,120 +111,84 @@ class WelcomeScreen extends StatelessWidget {
   }
 }*/
 
-
-import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:quizee/loginScreen/login.dart';
-import 'package:quizee/services/firebase_service.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({Key? key}) : super(key: key);
-  
-   @override
+
+  @override
   Widget build(BuildContext context) {
-
-return Scaffold(
-  body: Stack(
-    children: <Widget>[
-      // Display background image
-      Container(
-        padding: EdgeInsets.only(right: 4, left: 4),
-        child: Image.asset(
-          'assets/images/welcomesplash.jpeg', // set the path to the background image
-          fit: BoxFit.cover, // scale and crop the image to cover the entire screen
-          width: double.infinity, // set the width to match the screen width
-          height: double.infinity, // set the height to match the screen height
-        ),
-      ),
-      // Display row of containers with images
-      Positioned(
-        bottom: 30.0, // distance from the bottom edge of the screen
-        left: 0.0,
-        right: 0.0,
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-          children: <Widget>[
-            GestureDetector(
-              onTap: () {
-               
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => Login()),
-                );
-              },
-              child: Padding(
-  padding: const EdgeInsets.only(bottom: 90),
-  child: Column(
-    children: [
-      Container(
-        width: 130,
-        height: 70,
-        decoration: BoxDecoration(
-          color: Colors.transparent,
-          image: DecorationImage(
-            image: AssetImage('assets/images/english.jpeg'),
-            fit: BoxFit.cover,
-          ),
-      ),  
+    return Scaffold(
+        body: SafeArea(
+      child: Container(
+          height: double.maxFinite,
+          width: double.maxFinite,
+          color: Colors.white,
+          child: Column(children: [
+            Container(
+              padding: EdgeInsets.only(left: 20, right: 20),
+              child: Image.asset("assets/images/welcome/aba.png",
+                  width: double.maxFinite, height: 150),
             ),
-
-      SizedBox(height: 8),
-      Text(
-        'ENGLISH',
-        style: TextStyle(
-          color: Colors.black,
-          fontSize: 20,
-          fontWeight: FontWeight.bold,
-        ),
-      ),
-    ],
-  ),
-),
-            ),
-            GestureDetector(
-              onTap: () {
-              
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => Login()),
-                );
-              },
-             child: Padding(
-  padding: const EdgeInsets.only(bottom: 90),
-  child: Column(
-    children: [
-      Container(
-        width: 130,
-        height: 70,
-        decoration: BoxDecoration(
-          color: Colors.transparent,
-          image: DecorationImage(
-            image: AssetImage('assets/images/espanyol.jpeg'),
-            fit: BoxFit.cover,
-          ),
-        ),
-      ),
-      SizedBox(height: 8),
-      Text(
-        'ESPANYOL',
-        style: TextStyle(
-          color: Colors.black,
-          fontSize: 20,
-          fontWeight: FontWeight.bold,
-        ),
-      ),
-
-    ],
-  ),
-),
-            ),
-          ],
-        ),
-      ),
-      
-    ],
-  ),
-);
+            SizedBox(height: 7),
+            Container(
+                padding: EdgeInsets.only(left: 50, right: 50),
+                child: Image.asset("assets/images/welcome/abaLogo2.png",
+                    width: double.maxFinite, height: 150)),
+            SizedBox(height: 3),
+            Text("Therapy Group",
+                style: TextStyle(
+                    fontSize: 17,
+                    fontStyle: FontStyle.italic,
+                    fontWeight: FontWeight.bold)),
+            // Text("Therapy Group",
+            //     style: GoogleFonts.inconsolata(
+            //         fontSize: 17,
+            //         fontStyle: FontStyle.italic,
+            //         fontWeight: FontWeight.bold)),
+            SizedBox(height: 50),
+            Padding(
+              padding: const EdgeInsets.only(top: 8, left: 8.0, right: 8.0),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Column(
+                    children: [
+                      Text("CHOOSE LANGUAGE",
+                          style: TextStyle(
+                              fontSize: 14, fontWeight: FontWeight.bold)),
+                      InkWell(
+                        onTap: () {
+                          Navigator.push(context,
+                              MaterialPageRoute(builder: (context) => Login()));
+                        },
+                        child: Container(
+                            child: Image.asset(
+                                "assets/images/welcome/english.png",
+                                width: 120,
+                                height: 100)),
+                      ),
+                    ],
+                  ),
+                  Column(
+                    children: [
+                      Text(
+                        "ESCOJA LENGUAJE",
+                        style: TextStyle(
+                            fontSize: 14, fontWeight: FontWeight.bold),
+                      ),
+                      Container(
+                          child: Image.asset(
+                              "assets/images/welcome/espanyol.png",
+                              width: 120,
+                              height: 100)),
+                    ],
+                  ),
+                ],
+              ),
+            )
+          ])),
+    ));
   }
 }
