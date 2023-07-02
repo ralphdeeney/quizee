@@ -22,48 +22,53 @@ class _CloudQuizState extends State<CloudQuiz> {
 
   @override
   Widget build(BuildContext context) {
-    return StreamBuilder(
-        stream: getQuestionsStream(),
-        builder: (context, snapshot) {
-          if (!snapshot.hasData) {
-            return Center(child: CircularProgressIndicator());
-          }
-          if (snapshot.hasError) {
-            return Text('Error: ${snapshot.error}');
-          }
-          var data = snapshot.data;
-          QuestionModel questionModel = QuestionModel.fromJson(data as Map<String, dynamic>);
-          return ListView.builder(
-              itemCount: questionModel.questions!.length,
-              itemBuilder: (context, index) {
-                return Container(
-                    margin: EdgeInsets.all(8),
-                    padding: EdgeInsets.all(16),
-                    decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(8),
-                      boxShadow: [
-                        BoxShadow(
-                          color: Colors.grey,
-                          blurRadius: 4,
-                          offset: Offset(2, 2),
-                        ),
-                      ],
-                    ),
-                    child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(
-                            (questionModel.questions![index].question).toString(),
-                            style: TextStyle(
-                              fontSize: 18,
-                              fontWeight: FontWeight.bold,
-                            ),
+    return Scaffold(
+     body: SafeArea(
+       child: StreamBuilder(
+              stream: getQuestionsStream(),
+              builder: (context, snapshot) {
+                if (!snapshot.hasData) {
+                  return Center(child: CircularProgressIndicator());
+                }
+                if (snapshot.hasError) {
+                  return Text('Error: ${snapshot.error}');
+                }
+                var data = snapshot.data;
+                QuestionModel questionModel = QuestionModel.fromJson(data as Map<String, dynamic>);
+                return ListView.builder(
+                    itemCount: questionModel.questions!.length,
+                    itemBuilder: (context, index) {
+                      return Container(
+                          margin: EdgeInsets.all(8),
+                          padding: EdgeInsets.all(16),
+                          decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(8),
+                            boxShadow: [
+                              BoxShadow(
+                                color: Colors.grey,
+                                blurRadius: 4,
+                                offset: Offset(2, 2),
+                              ),
+                            ],
                           ),
-                          SizedBox(height: 8),
-                         
-                        ]));
-              });
-        });
+                          child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  (questionModel.questions![index].question).toString(),
+                                  style: TextStyle(
+                                    fontSize: 18,
+                                    fontWeight: FontWeight.bold,
+                                  ),
+                                ),
+                                SizedBox(height: 8),
+                               
+                              ]));
+                    });
+              }),
+     ),
+    
+    );
   }
 }
